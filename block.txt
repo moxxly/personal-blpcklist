@@ -1,0 +1,38 @@
+# ==========================================
+# BLOKIR TWITTER / X LENGKAP
+# ==========================================
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 api.twitter.com
+0.0.0.0 upload.twitter.com
+0.0.0.0 api.x.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 video.twimg.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 abs-0.twimg.com
+0.0.0.0 t.co
+0.0.0.0 analytics.twitter.com
+
+# ==========================================
+# BLOKIR REDDIT LENGKAP
+# ==========================================
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 old.reddit.com
+0.0.0.0 new.reddit.com
+0.0.0.0 m.reddit.com
+0.0.0.0 i.redd.it
+0.0.0.0 v.redd.it
+0.0.0.0 preview.redd.it
+0.0.0.0 external-preview.redd.it
+0.0.0.0 b.thumbs.redditmedia.com
+0.0.0.0 out.reddit.com
+0.0.0.0 alb.reddit.com
+0.0.0.0 events.reddit.com
+0.0.0.0 oauth.reddit.com
+0.0.0.0 gateway.reddit.com
+0.0.0.0 gql.reddit.com
+0.0.0.0 styles.redditmedia.com
